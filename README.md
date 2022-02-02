@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammed Rashid
 - 👀 I’m interested in building software products
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on Microsoft team
+- 💞️ I’m looking to collaborate with Microsoft team
 - 📫 How to reach me is fully based upon my skills
 
 <!---
